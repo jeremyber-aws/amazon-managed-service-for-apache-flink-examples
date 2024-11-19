@@ -1,0 +1,4 @@
+boto3
+botocore
+aws_glue_schema_registry
+jsonschema
